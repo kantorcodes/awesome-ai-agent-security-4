@@ -88,6 +88,7 @@
 
 *Securing Anthropic's Model Context Protocol (MCP) tool servers and client transports.*
 
+- [HOL Guard](https://hol.org/guard) - Local-first policy and approval checks for AI coding agents, including MCP configuration changes and supported tool actions before execution.
 - [MCPBuilderKit](https://github.com/RitualDev-Lab/mcp-builder-kit) - Production scaffolding and testing toolkit for Model Context Protocol servers with schema validation and authentication gates.
 - [MCP Official SDK](https://github.com/modelcontextprotocol) - Official TypeScript and Python SDKs for Model Context Protocol.
 - [MCP Security Guidelines](https://modelcontextprotocol.io/docs/concepts/architecture#security) - Architectural specifications for server-client isolation and authorization scopes.
