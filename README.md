@@ -88,6 +88,7 @@
 
 *Securing Anthropic's Model Context Protocol (MCP) tool servers and client transports.*
 
+- [HOL Guard](https://hol.org/guard) - Open-source local policy checks and approval prompts for supported coding-agent tool actions and MCP calls; coverage depends on each agent integration.
 - [MCPBuilderKit](https://github.com/RitualDev-Lab/mcp-builder-kit) - Production scaffolding and testing toolkit for Model Context Protocol servers with schema validation and authentication gates.
 - [MCP Official SDK](https://github.com/modelcontextprotocol) - Official TypeScript and Python SDKs for Model Context Protocol.
 - [MCP Security Guidelines](https://modelcontextprotocol.io/docs/concepts/architecture#security) - Architectural specifications for server-client isolation and authorization scopes.
@@ -146,8 +147,63 @@ Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTIN
 
 ---
 
+## 🏷️ Embed Verifiable Badges in Your Repository
+
+Add verifiable cryptographic defense, monetization, and catalog badges to your agent or tool `README.md`:
+
+#### 1. Runtime Sandboxing & Egress Defense
+```markdown
+[![Secured by AgentShield](https://ritualdev.in/badge/secured-by-agentshield.svg)](https://ritualdev.in/agentshield)
+```
+[![Secured by AgentShield](https://ritualdev.in/badge/secured-by-agentshield.svg)](https://ritualdev.in/agentshield)
+
+#### 2. Model Context Protocol (MCP) Monetization
+```markdown
+[![Monetized with MCP](https://ritualdev.in/badge/monetized-with-mcp.svg)](https://ritualdev.in/mcp-builder)
+```
+[![Monetized with MCP](https://ritualdev.in/badge/monetized-with-mcp.svg)](https://ritualdev.in/mcp-builder)
+
+#### 3. DevShelf Programmatic Registry A+ Verification
+```markdown
+[![Verified by DevShelf](https://ritualdev.in/badge/verified-by-devshelf.svg)](https://ritualdev.in/devshelf)
+```
+[![Verified by DevShelf](https://ritualdev.in/badge/verified-by-devshelf.svg)](https://ritualdev.in/devshelf)
+
+#### 4. Featured on Awesome AI Agent Security
+```markdown
+[![Featured on Awesome AI Agent Security](https://img.shields.io/badge/Awesome-AI%20Agent%20Security-00F59B?style=flat-square&logo=shield)](https://github.com/RitualDev-Lab/awesome-ai-agent-security)
+```
+[![Featured on Awesome AI Agent Security](https://img.shields.io/badge/Awesome-AI%20Agent%20Security-00F59B?style=flat-square&logo=shield)](https://github.com/RitualDev-Lab/awesome-ai-agent-security)
+
+---
+
 ## 📄 License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [RitualDev Lab](https://ritualdev.in) has waived all copyright and related or neighboring rights to this work.
+
+---
+
+---
+
+## 💖 Sponsor & Support
+
+If you find this project valuable, consider supporting our open-source development:
+
+[![Sponsor on Dodo Payments](https://img.shields.io/badge/Sponsor_via_Dodo-Payments-8b5cf6?style=for-the-badge&logo=shield&logoColor=white)](https://checkout.dodopayments.com/buy/pdt_0NpjONGugY5QkrFDUaPva)
+[![Interactive Donation Portal](https://img.shields.io/badge/Donation_Portal-Cards%20%7C%20UPI%20%7C%20Apple%20Pay-ff5964?style=for-the-badge&logo=heart&logoColor=white)](https://ritualdev.in/donate)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-RitualDev--Lab-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RitualDev-Lab)
+
+- [**⚡ 1-Click Dodo Payments Checkout**](https://checkout.dodopayments.com/buy/pdt_0NpjONGugY5QkrFDUaPva)
+- [**🎁 Interactive Donation Portal**](https://ritualdev.in/donate)
+- [**❤️ GitHub Sponsors**](https://github.com/sponsors/RitualDev-Lab)
+
+---
+
+## 🛡️ Community & Governance
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Accessibility Statement](ACCESSIBILITY.md)
+- [License](LICENSE)
